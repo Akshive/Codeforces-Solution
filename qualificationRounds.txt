@@ -1,0 +1,2 @@
+Try thinking the problem as each question is a container, we have to find two containers such that no two elements are common(why? try on paper)
+this can be easily done in O(2^(2K))
