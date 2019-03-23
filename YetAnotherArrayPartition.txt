@@ -1,0 +1,2 @@
+We have to take best m*k elements(for k splits of m elements each), so sort according to values,
+now we have these values, sort accordiong to there indices to maintain order and divide into k group every group will have m or more elements.
