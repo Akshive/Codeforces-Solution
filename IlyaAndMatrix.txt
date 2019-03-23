@@ -1,0 +1,12 @@
+Write in terms of variables, what would be optimum,
+1 elem
+m1
+
+4 elem
+m1 + m1+m2+m3+m4
+
+16 elem
+m1 + m1+m2+m3+m4 + m1+m2+m3+m4+.....+m16
+
+
+and so on.
