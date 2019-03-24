@@ -1,0 +1,2 @@
+the question is little easy because we only have 'a' and 'b', we can always make the string in form a^(k)b^(n-k).
+We have to do this by considering every letter.
