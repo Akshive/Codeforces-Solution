@@ -1,0 +1,8 @@
+The question is based on this idea :
+
+if we have m containers and in some container there is ball, how many containers do we need to turn over to find out the ball, it's n
+what about if there are two balls, it would be n-1 (think)
+
+if there are m balls, it would be n - (m-1)
+
+now as the ship will be destroyed by any point of it's length, the only thing that matters is the positions of these ships possible loacations (containers)
